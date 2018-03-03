@@ -3,7 +3,7 @@
 #########################################
 
 
-- Aplicação desenvolvida para o teste da Avenue Code
+- Aplicação desenvolvida para o Gerenciamento de Contas
 
 - A aplicação foi desenvolvida utilizando: Spring Boot, Rest Services, JPA/Hibernate, Thymeleaf, Maven e h2database;
 - Ao inicializar a aplicação, serão inseridas Contas e Clientes fictícios automaticamente;
@@ -30,7 +30,7 @@
 #########################################
 
 
- Application developed for the Avenue Code test!
+ Application developed for Accounts Management
 
 - The application was developed using: Spring Boot, Rest Services, JPA / Hibernate, Thymeleaf, Maven and h2database;
 - When initializing the application, Fictitious Accounts and Clients will be inserted automatically
