@@ -21,7 +21,7 @@
 	<properties>
 	        <sonar.projectKey>ControledeContas</sonar.projectKey>
 		<sonar.host.url>http://ip172-18-0-23-bumtncvp2ffg00b9l1sg-9000.direct.labs.play-with-docker.com</sonar.host.url>
-		<sonar.login>378c85f017d129d41dbbf51e8fc18ba6618c2221</sonar.login>	
+		<sonar.login>f6eea9be50e50a8dc6ecca2b0f9c6a93612e00b4</sonar.login>	
 		<sonar.language>java</sonar.language>	
 		<sonar.sources>src/main/java</sonar.sources>
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
